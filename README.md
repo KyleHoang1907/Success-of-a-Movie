@@ -1,4 +1,4 @@
-# Success-of-a-Movie-
+# Success of a Movie
 ## Goal: 
  To determine what factors contribute the most to a movie's success.
 ## Description:
